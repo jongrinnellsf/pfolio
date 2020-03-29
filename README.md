@@ -1,3 +1,3 @@
 # Jon Grinnell Portfolio
 
-A delightful portfolio site, showcasing some of my work
+A delightful portfolio site, showcasing some of my work. 

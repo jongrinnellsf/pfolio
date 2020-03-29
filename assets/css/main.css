@@ -1,12 +1,6 @@
 @import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,300italic,400italic");
 @import url("fontawesome-all.min.css");
 
-/*
-	Astral by HTML5 UP
-	html5up.net | @ajlkn
-	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
-*/
-
 html, body, div, span, applet, object,
 iframe, h1, h2, h3, h4, h5, h6, p, blockquote,
 pre, a, abbr, acronym, address, big, cite,
@@ -1317,7 +1311,6 @@ input, select, textarea {
 	}
 
 	body {
-		/* background-image: url("images/overlay.png"), url("images/bg.jpg"); */
 		background-color:#000;
 
 		background-repeat: repeat, no-repeat;
@@ -1397,7 +1390,6 @@ input, select, textarea {
 	h3, h4, h5, h6 {
 		font-size: 1.25em;
 		letter-spacing: -0.015em;
-		/* font-weight: 900; */
 	}
 
 	@media screen and (max-width: 736px) {
@@ -1590,7 +1582,6 @@ input, select, textarea {
 
 		.image.fit {
 			display: block;
-			/* width: 100%; */
 			width: 50%
 		}
 
@@ -1718,7 +1709,6 @@ input, select, textarea {
 
 		.social a {
 			color: #000;
-			/* opacity: 0.8; */
 			text-decoration: none;
 		}
 
@@ -1764,6 +1754,7 @@ input, select, textarea {
 			-webkit-transition: opacity .25s ease-in-out;
 			-ms-transition: opacity .25s ease-in-out;
 			transition: opacity .25s ease-in-out;
+			text-decoration: none;
 		}
 
 			#nav a.icon:before {
